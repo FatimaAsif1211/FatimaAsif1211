@@ -32,11 +32,10 @@
 | **[MediCompare Mobile App](https://github.com/FatimaAsif1211/MediCompare-Mobile-App)** | A medicine comparison app that finds the best prices across 12+ pharmacies in Pakistan, with live price scraping and Firebase auth | Flutter, Dart, Firebase |
 | **[Crime Tracking and Investigation System](https://github.com/FatimaAsif1211/Crime-Tracking-and-Investigation-System)** | Terminal based app for managing crime reports, cases, suspects, and evidence using data structures like Linked Lists, AVL Trees, Stacks, and Queues | C++ |
 | **[Smart Disaster Alert System](https://github.com/FatimaAsif1211/Smart-Disaster-Alert-System)** | Simulated IoT based disaster alert system using smart sensors and automated actuators | Cisco Packet Tracer |
-| **[Travel and Tourism Management System](https://github.com/FatimaAsif1211/Travel-Tourism-Management-System)** | Desktop app for travel agencies. Handles customer profiles, hotel booking, tour packages, and secure payments | Java (Swing), MySQL |
-| **[TalentLMS Database System](https://github.com/FatimaAsif1211/TalentLMS-Database-System)** | Relational database design for a learning management system | SQL Server (T-SQL) |
 | **[MediCompare Backend Model](https://github.com/FatimaAsif1211/MediCompare-Backend-Model)** | Backend and ML service powering a mobile app for comparing medicines | Python |
 
 ---
+> More on my [GitHub repositories page](https://github.com/FatimaAsif1211?tab=repositories)
 
 ### 🧰 Tech I've Worked With
 
