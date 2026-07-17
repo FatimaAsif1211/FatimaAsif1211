@@ -17,7 +17,7 @@
 - 🎓 Studying **BSSE (Bachelor of Science in Software Engineering)**, currently in my 5th semester
 - 🌱 Early in my journey. I learn by building real projects
 - 💡 Recently got curious about **AI, RAG (Retrieval Augmented Generation), and semantic search**
-- 🛠️ Comfortable with C++, Java, PHP, Python, and SQL from coursework and personal projects
+- 🛠️ Learning C++, Java, PHP, Python, and SQL from coursework and personal projects
 - 📌 I enjoy figuring things out and shipping projects
 
 ---
