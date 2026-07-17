@@ -9,16 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=FatimaAsif1211&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views" />
 </p>
 
----
-
-### 🖼️ ASCII Me
-
-<p align="center">
-  <img src="./ascii_photo.svg" alt="ASCII portrait" width="500"/>
-</p>
-
----
-
 ### 🎯 About Me
 
 - 🎓 Studying **BSSE (Bachelor of Science in Software Engineering)**, currently in my 5th semester
