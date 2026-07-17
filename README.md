@@ -1,19 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8b5cf6&height=220&section=header&text=Hi%20I'm%20Fatima%20Asif%20 fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20Student%20-%20Learning%20by%20Building&descAlignY=58&descSize=18" alt="Header Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8b5cf6&height=220&section=header&text=Hi%20I'm%20Fatima%20Asif%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20Student%20-%20Learning%20by%20Building&descAlignY=58&descSize=18" alt="Header Banner" width="100%"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Learning+by+Building;Currently+Exploring%2C+Figuring+Out+My+Path" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FatimaAsif1211&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views" />
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:8b5cf6&height=3&section=header&animation=fadeIn" width="100%"/>
 </p>
----
 
 ### 🎯 About Me
 
@@ -39,8 +35,6 @@
 | **[Travel and Tourism Management System](https://github.com/FatimaAsif1211/Travel-Tourism-Management-System)** | Desktop app for travel agencies. Handles customer profiles, hotel booking, tour packages, and secure payments | Java (Swing), MySQL |
 | **[TalentLMS Database System](https://github.com/FatimaAsif1211/TalentLMS-Database-System)** | Relational database design for a learning management system | SQL Server (T-SQL) |
 | **[MediCompare Backend Model](https://github.com/FatimaAsif1211/MediCompare-Backend-Model)** | Backend and ML service powering a mobile app for comparing medicines | Python |
-
-> More on my [GitHub repositories page](https://github.com/FatimaAsif1211?tab=repositories)
 
 ---
 
