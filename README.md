@@ -1,5 +1,8 @@
-<h1 align="center">Hi, I'm Fatima Asif 👋</h1>
-<h3 align="center">BSSE Student. Learning to build things, one project at a time.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Fatima+Asif" alt="Typing SVG" />
+</p>
+
+<h3 align="center">BSSE Student. Learning to build things.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Student+%7C+Trying+to+Learn;Discovering+the+World+of+Programming;Currently+exploring+AI+and+RAG+systems" alt="Typing SVG" />
