@@ -1,12 +1,19 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8b5cf6&height=220&section=header&text=Hi%20I'm%20Fatima%20Asif%20 fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20Student%20-%20Learning%20by%20Building&descAlignY=58&descSize=18" alt="Header Banner" width="100%"/>
+</p>
 
-<h1 align="center">Hi, I'm Fatima Asif </h1>
-<h3 align="center">BSSE Student. Learning to build things, one project at a time.</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Learning+by+Building;Currently+Exploring%2C+Figuring+Out+My+Path" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FatimaAsif1211&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:8b5cf6&height=3&section=header&animation=fadeIn" width="100%"/>
+</p>
+---
 
 ### 🎯 About Me
 
@@ -16,7 +23,9 @@
 - 🛠️ Learning C++, Java, PHP, Python, and SQL from coursework and personal projects
 - 📌 I enjoy figuring things out and shipping projects
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:8b5cf6&height=3&section=header&animation=fadeIn" width="100%"/>
+</p>
 
 ### 💻 Featured Projects
 
@@ -63,9 +72,11 @@
 
 - Retrieval Augmented Generation (RAG) and vector databases (Qdrant)
 - Running local LLMs (Ollama)
-- Better system design and backend fundamentals
+- Better system design and tech fundamentals
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:8b5cf6&height=3&section=header&animation=fadeIn" width="100%"/>
+</p>
 
 ### 🐍 Contribution Snake
 
@@ -88,4 +99,6 @@
 
 ---
 
-<p align="center"><i>Still learning, still building. Thanks for stopping by! 🌸</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6C63FF&height=150&section=footer&text=Thanks%20for%20stopping%20by!%20🌸&fontSize=20&fontColor=ffffff&fontAlignY=75&animation=fadeIn" alt="Footer Banner" width="100%"/>
+</p>
